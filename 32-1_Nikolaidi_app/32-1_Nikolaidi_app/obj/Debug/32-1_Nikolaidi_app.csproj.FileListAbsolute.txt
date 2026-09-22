@@ -1,0 +1,10 @@
+Z:\appp\32-1_Nikolaidi_app\32-1_Nikolaidi_app\bin\Debug\32-1_Nikolaidi_app.exe.config
+Z:\appp\32-1_Nikolaidi_app\32-1_Nikolaidi_app\bin\Debug\32-1_Nikolaidi_app.exe
+Z:\appp\32-1_Nikolaidi_app\32-1_Nikolaidi_app\bin\Debug\32-1_Nikolaidi_app.pdb
+Z:\appp\32-1_Nikolaidi_app\32-1_Nikolaidi_app\obj\Debug\32-1_Nikolaidi_app.csproj.AssemblyReference.cache
+Z:\appp\32-1_Nikolaidi_app\32-1_Nikolaidi_app\obj\Debug\_32_1_Nikolaidi_app.Properties.Resources.resources
+Z:\appp\32-1_Nikolaidi_app\32-1_Nikolaidi_app\obj\Debug\32-1_Nikolaidi_app.csproj.GenerateResource.cache
+Z:\appp\32-1_Nikolaidi_app\32-1_Nikolaidi_app\obj\Debug\32-1_Nikolaidi_app.csproj.CoreCompileInputs.cache
+Z:\appp\32-1_Nikolaidi_app\32-1_Nikolaidi_app\obj\Debug\32-1_Nikolaidi_app.exe
+Z:\appp\32-1_Nikolaidi_app\32-1_Nikolaidi_app\obj\Debug\32-1_Nikolaidi_app.pdb
+Z:\appp\32-1_Nikolaidi_app\32-1_Nikolaidi_app\obj\Debug\_32_1_Nikolaidi_app.FormMain.resources
