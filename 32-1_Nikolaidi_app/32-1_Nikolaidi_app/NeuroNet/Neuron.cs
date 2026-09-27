@@ -41,8 +41,20 @@ namespace _32_1_Nikolaidi_app.NeuroNet
                     derivative = Derivativator(sum);
                     break;
                 case NeuronType.Output:
-                    output = E
+                    output = Exp(sum);
+                    break;
             }
+        }
+
+        private double funcActivation(double x)
+        {
+            return (Exp(x) - Exp(-x)) / (Exp(x) + Exp(-x));
+        }
+
+        private double Derivativator(double x)
+        {
+            double activation = funcActivation(x);
+            return 1 - activation * activation;
         }
     }
 }
